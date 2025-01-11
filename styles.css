@@ -468,6 +468,11 @@ header {
   .trip__grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .destination__container, .gallary__container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
 }
 
 @media (width < 600px) {
