@@ -506,4 +506,9 @@ header {
   .header__image {
     min-height: 300px;
   }
+
+  .nav__logo {
+    width: 95px;
+    height: 50px;
+  }
 }
